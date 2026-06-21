@@ -1,0 +1,6 @@
+{
+  "name": "R.CaloAI",
+  "description": "Smart calorie & macro tracker using Gemini AI with text/camera analysis, exercise estimation, water reminders, and personalized coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
